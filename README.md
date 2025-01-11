@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋 Welcome my profile!</h1>
 
 
-![1 2](https://github.com/user-attachments/assets/0ada0be3-0ee3-48de-a2e4-df49ef844fe7)
 
 
+![Bbanner](https://github.com/user-attachments/assets/79307602-9c7b-4c26-bc37-8ffa98223714)
 
 
 <!--
