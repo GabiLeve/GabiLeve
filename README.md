@@ -1,5 +1,10 @@
-## Hi there 👋 Welcome my profile!
-![bannerGitHub](https://github.com/user-attachments/assets/32781c85-1715-4588-ab78-1ebbbae692f5)
+<h1 align="center"> Hi there 👋 Welcome my profile!</h1>
+
+
+![1 2](https://github.com/user-attachments/assets/0ada0be3-0ee3-48de-a2e4-df49ef844fe7)
+
+
+
 
 <!--
 **GabiLeve/GabiLeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
