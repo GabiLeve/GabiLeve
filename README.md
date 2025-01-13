@@ -31,7 +31,7 @@
   </a>--> <!-- sqlite, safari, google-chrome are other good icon options -->
 </div><br>
 
-📝 **[Resume](https://drive.google.com/file/d/1htXv-buo6T4iqV2DfE28gfTKpr3_-Ys3/view?usp=drive_link)**
+📝 **[Resume](https://drive.google.com/file/d/1ss-N9VDy5u-SZkpagu7rdQ4CugVjmARe/view?usp=drive_link)**
 </div>
 
  <hr/>
