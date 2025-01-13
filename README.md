@@ -5,8 +5,7 @@
 </h1>
 
 
-
-![Bbanner](https://github.com/user-attachments/assets/79307602-9c7b-4c26-bc37-8ffa98223714)
+![baner](https://github.com/user-attachments/assets/13ae8da6-5391-40d8-b202-ba003dbb4272)
 
 <div align="center">
 <h3> ✨ Quick Facts </h3>
