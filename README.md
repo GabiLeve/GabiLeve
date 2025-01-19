@@ -51,18 +51,13 @@
 ![snake_gif](https://github.com/GabiLeve/GabiLeve/blob/output/github-snake-dark.svg)
 
  </div>
-
 <!--
-**GabiLeve/GabiLeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabiLeve&show_icons=true&locale=en&layout=compact" alt="GabiLeve" /></p>
 -->
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabiLeve&show_icons=true&locale=en" alt="GabiLeve" width="410" /></p>
+
+
