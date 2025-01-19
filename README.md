@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GabiLeve.GabiLeve&left_color=deeppink&right_color=blue&left_text=HelloVisitors" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Gabi!;+Welcome+my+profile!+🎉" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+15&size=70&color=3CEBFF&pause=1000&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Gabi!;+Welcome+my+profile!+🎉" />
 </h1>
 
 
