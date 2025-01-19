@@ -43,7 +43,14 @@
 </div>
 
 
+ <hr/>
+ 
+<h3 align="center">🐍 Look at my devoured contributions 🐍 </h3>
+ <div align="center">
+     
+![snake_gif](https://github.com/GabiLeve/GabiLeve/blob/output/github-snake-dark.svg)
 
+ </div>
 
 <!--
 **GabiLeve/GabiLeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
