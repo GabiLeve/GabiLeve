@@ -38,8 +38,11 @@
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,javascript,java" /><br>
+    <img src="https://skillicons.dev/icons?i=github,stackoverflow,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://github.com/user-attachments/assets/7a217660-75f2-42ef-8779-4b501fc8f3d8" alt="Power-BI" width="32" margin="2px"/>
+
 </div>
 
 
