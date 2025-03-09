@@ -12,7 +12,7 @@
 <br>
 👩‍💻 I am currently studying the second year of the Web Development Technician at the University of La Matanza
 
-**[Certificate of approved subjects](https://drive.google.com/file/d/1L1BlUUlRXdss_OiX2zOIeZemzQwR565y/view?usp=drive_link)**
+**[Certificate of approved subjects](https://drive.google.com/file/d/1cuWubXfaFdkLpjAOzy89QksnIzyYSt6S/view?usp=sharing)**
 
 🧠 I’m currently learning **Java in deep and specializing in English**
 
