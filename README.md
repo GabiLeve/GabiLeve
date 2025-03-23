@@ -43,7 +43,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,javascript,java,php" /><br>
     <img src="https://skillicons.dev/icons?i=github,stackoverflow,figma,git,ai" /><br>
     <img src="https://skillicons.dev/icons?i=mysql"/>
-    <img src="https://github.com/user-attachments/assets/7a217660-75f2-42ef-8779-4b501fc8f3d8" alt="Power-BI" width="32" margin="2px"/>
 
 </div>
 
