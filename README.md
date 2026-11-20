@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+15&size=70&color=3CEBFF&pause=1000&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Gabi!;+Welcome+my+profile!+🎉" />
 </h1>
 
-
 ![baner](https://github.com/user-attachments/assets/13ae8da6-5391-40d8-b202-ba003dbb4272)
 
 <div align="center">
-<h3> ✨ Quick Facts </h3>
+<h3> ✨ About Me & Quick Facts ✨ </h3>
 <br>
-👩‍💻 I am currently studying the second year of the Web Development Technician at the University of La Matanza
-
-**[Certificate of approved subjects](https://drive.google.com/file/d/1cuWubXfaFdkLpjAOzy89QksnIzyYSt6S/view?usp=sharing)**
-
-🧠 I’m currently learning **Java in deep and specializing in English**
+<p>
+    🎓 <strong>Web Development Technician</strong> graduated from the <strong>National University of La Matanza (UNLaM)</strong>.
+  </p>
+  <p>
+    💻 <strong>Full Stack Web Developer</strong> specialized in <strong>C# / .NET</strong> for Backend and <strong>Angular / JavaScript</strong> for Frontend. I am passionate about bridging communication between people and technology to build high-impact software products through collaborative teamwork and technical excellence.
+  </p>
 
 📫 How to reach me 
 <!--<a href="https://www.linkedin.com/in/gabriela-leveratto-74a539250">**@GbrielaLeveratto**</a> -->
@@ -32,7 +32,7 @@
   </a>--> <!-- sqlite, safari, google-chrome are other good icon options -->
 </div><br>
 
-📝 **[Resume](https://drive.google.com/file/d/1ss-N9VDy5u-SZkpagu7rdQ4CugVjmARe/view?usp=drive_link)**
+📝 **[Resume](https://drive.google.com/file/d/1AkkQ06hE8t12-ewzJBIr6GAShZmm1-yb/view?usp=sharing)**
 </div>
 
  <hr/>
