@@ -38,13 +38,24 @@
 
  <hr/>
  
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center">⚒️ Tech Stack & Tools ⚒️</h3>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,javascript,java,php" /><br>
-    <img src="https://skillicons.dev/icons?i=github,stackoverflow,figma,git,ai" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql"/>
 
+<div align="center">
+  <p><strong>Core Stack (Backend, Frontend & Databases)</strong></p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,mysql" alt="Core Stack" />
+  <br/><br/>
+
+  <p><strong>Other Languages & Development Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,git,github,vscode,figma" alt="Tools & Other Languages" />
+  <br/><br/>
+
+  <p><strong>Cloud, Deployment & Databases</strong></p>
+  
+  <img src="https://img.shields.io/badge/SQL_Server-1E3A5F?style=for-the-badge&logo=microsoft-sql-server&logoColor=EF4444" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Render-18181B?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Aiven-FF355E?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven" />
 </div>
 
 
