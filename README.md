@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+15&size=70&color=3CEBFF&pause=1000&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Gabi!;+Welcome+my+profile!+🎉" />
 </h1>
 
-![baner](https://github.com/user-attachments/assets/13ae8da6-5391-40d8-b202-ba003dbb4272)
+<!--![baner](https://github.com/user-attachments/assets/13ae8da6-5391-40d8-b202-ba003dbb4272)-->
+<img width="3168" height="792" alt="Fondo GuitHub" src="https://github.com/user-attachments/assets/930884dc-ac5b-4a86-8440-106959cef200" />
+
 
 <div align="center">
 <h3> ✨ About Me & Quick Facts ✨ </h3>
